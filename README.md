@@ -1,16 +1,28 @@
-# sabi
+Sabi Wallet
 
-A new Flutter project.
+🇳🇬 Nigeria’s first non-custodial Bitcoin + Lightning wallet that feels exactly like Moniepoint & OPay
+Send sats as easily as you dash airtime. Receive like bank alert. Buy & sell BTC P2P like NoOnes. No seed phrase, no KYC, no custody — just your money, your keys, forever.
+Built for the street, by the street.
 
-## Getting Started
+Core Features
 
-This project is a starting point for a Flutter application.
+Instant Lightning payments (₦ ↔ sats flip)
+Social recovery via Nostr (pick 3 trusted guys, no 12 words)
+Full Bitcoin & USDT P2P trading (NoOnes/Bitnob-style, non-custodial escrow)
+USSD fallback (333777#) – works on Nokia 3310
+Nostr-native zaps & identity
+Agent/POS mode for merchants
+Earn tab – referral
 
-A few resources to get you started if this is your first Flutter project:
+100% open-source, Flutter + Breez SDK + LDK
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Designed and built in Kaduna, Nigeria
+Made by Bitcoiners, for the next 200 million Africans.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If Moniepoint and Alby had a baby raised in Computer Village — this is it.
+
+Bitcoin Lightning Nostr Flutter Nigeria Non-Custodial P2P Open Source
+
+★ Star if you believe Africa will orange-pill the world.
+
+₿ Together, we Sabi. ⚡🇳🇬
