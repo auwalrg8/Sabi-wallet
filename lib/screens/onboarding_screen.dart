@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../widgets/onboarding_page.dart';
 import '../widgets/page_indicator.dart';
+import 'city_selection_screen.dart';
 
 class OnboardingScreen extends StatefulWidget {
   const OnboardingScreen({super.key});
@@ -35,11 +36,10 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
   }
 
   void _onGetStarted() {
-    // TODO: Navigate to home or main app screen
-    // Navigator.pushReplacement(
-    //   context,
-    //   MaterialPageRoute(builder: (context) => const HomeScreen()),
-    // );
+    Navigator.pushReplacement(
+      context,
+      MaterialPageRoute(builder: (context) => const CitySelectionScreen()),
+    );
   }
 
   @override
